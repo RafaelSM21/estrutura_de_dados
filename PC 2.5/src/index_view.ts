@@ -1,4 +1,4 @@
-import { Fibonacci } from "./index";
+import { Fibonacci } from "./index_model";
 
 const n1 = 5;
 const f = new Fibonacci(n1);
